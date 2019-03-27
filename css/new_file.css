@@ -1,0 +1,16 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+	background: url(../images/357884c29c586ba9.jpg);
+}
+.di{
+	text-align: center;
+	height: 150px;
+	padding-top: 50px;
+	background: rgba(255,255,255,.2);
+}
+img{
+	cursor: pointer;
+}
